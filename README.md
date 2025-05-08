@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanna Tariku </h1>
 <h3 align="center">A passionate Frontend Developer and Software Engineering Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Empowering+Ideas+with+Code;Building+Solutions+for+Real+World+Problems;Passionate+About+Tech+%26+E-Learning" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧭 About Me
