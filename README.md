@@ -3,18 +3,11 @@
 
 ---
 
-### 🧭 About Me
-
-🌱 I’m currently enrolled in the **ALX Pro Dev Frontend Program** – a rigorous journey to master modern frontend technologies and build robust, user-centered applications.
-
-🌐 At the same time, I’m diving into **Backend Development** – exploring how to design powerful, secure, and scalable systems that bring frontend interfaces to life.  
-This full-stack perspective is helping me better understand how all pieces fit together to deliver real impact.
-
-💡 **Why I chose Software Engineering:**  
-Software Engineering combines my interests in creativity, logic, and continuous learning. I find the ability to build applications that can impact people's daily lives incredibly fulfilling.
-
-🎯 **My goal:**  
-To create scalable and accessible solutions that solve **real-world problems** – especially in sectors like **e-learning**, **community development**, and **productivity tools**.
+## 🚀 About Me  
+- 🌱 Skilled in **HTML, CSS, JavaScript, React, TypeScript, TailwindCSS**  
+- 🔭 Learning **Python, Django, and backend fundamentals**  
+- 💡 Interested in building tools and platforms that solve real-world problems  
+- 🎯 Goal: To **build meaningful digital experiences** that not only work, but *make life easier and more inspiring*  
 
 ---
 
