@@ -1,6 +1,9 @@
 # Hi👋 I'm Hanna Tariku 
 ---
-🚀 Aspiring Software Developer | ALX Graduate (Pro Dev Frontend & Backend Programs)  
+🚀 Aspiring Software Developer
+
+🎓 ALX Graduate (Pro Dev Frontend & Backend Programs) 
+
 📍 Hawassa, Ethiopia 🇪🇹
 
 ---
