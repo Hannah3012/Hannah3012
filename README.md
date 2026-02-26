@@ -1,4 +1,4 @@
-# Hi👋 I'm Hanna Tariku 
+# Hi, I'm Hanna!👋
 ---
 🚀 Aspiring Software Developer
 
