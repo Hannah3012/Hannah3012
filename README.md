@@ -31,7 +31,7 @@
 
 ---
 
-✨ *Always learning. Always building.*
+
 
 
 
